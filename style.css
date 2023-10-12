@@ -1,0 +1,71 @@
+/* default style for the entire page  */
+*{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+
+}
+/* style for the main header */
+h1{
+ text-align: center;   
+ color: rgb(240, 240, 15);
+ background-color: black;
+ font-family: Georgia;
+}
+/* style for the sub header */
+h2{
+    background-color: rgba(238, 238, 7, 0.863);
+    font-family: Georgia;
+    color: aliceblue;
+    
+}
+/* style for "A brief History" */
+h3{
+    background-color: azure;
+    font-family: Impact;
+    font-size: 30px;
+
+
+}
+/* style for the content of the history */
+.history{
+font-size: 26px;
+font-family: 'Franklin Gothic Medium';
+
+}
+/* style for the unordered list of achievements */
+li{
+    text-align: left;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium';
+
+}
+/* style for the heading "Quote" */
+.quote{
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: Lucida;
+    background-color: aquamarine;
+}
+/* style for the Quote content */
+.writtenQuote{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: cursive;
+
+}
+/* style for the footnote love+light */
+.loveAndLight{
+    font-size:18px;
+    font-weight: bold;
+}
+/* style for the images */
+img{
+    border: 2px solid #333;
+    padding: 10px;
+
+
+}
